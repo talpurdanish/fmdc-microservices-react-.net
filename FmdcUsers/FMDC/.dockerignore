@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+out/
+
+# User secrets and local settings
+secrets.json
+appsettings.Development.json
+appsettings.*.json
+
+# Logs
+*.log
+logs/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
